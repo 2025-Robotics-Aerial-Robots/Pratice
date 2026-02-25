@@ -29,7 +29,7 @@ $ rosrun practice1 number_sum
 ```
 $ roslaunch practice1 turtle.launch
 ```
-- 將原本的烏龜刪掉，並且呼叫和組員數量相同的烏龜
+- 呼叫和組員數量相同的烏龜
 ```
 $ rosrun practice1 turtle_more
 ```
